@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"residuos","l":"Vehiculo"}];updateSearchResults();
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"residuos","l":"CamionBasura"},{"p":"residuos","l":"CamionCisterna"},{"p":"residuos","l":"CamionReciclaje"},{"p":"residuos","l":"Contenedor"},{"p":"residuos","l":"Ruta"},{"p":"residuos","l":"Vehiculo"}];updateSearchResults();
